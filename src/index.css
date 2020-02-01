@@ -20,7 +20,8 @@ code {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #ccc;
+  /*background: #ccc;*/
+  display: none;
 }
 
 /* Handle */
